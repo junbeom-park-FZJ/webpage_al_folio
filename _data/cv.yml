@@ -77,7 +77,7 @@
         - Supervised by Dr. Seung Min Kim
 
 - title: Professional Experiences
-  type: time-table
+  type: time_table
   contents:
     - title: Chair of Materials Division
       year: 2024.05-Present
