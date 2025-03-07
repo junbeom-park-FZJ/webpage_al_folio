@@ -93,7 +93,7 @@
     - name: TEM
       value: High resolution imaging, Electron diffraction, Aberration correction, 4D STEM, EDS and EELS
     - name: in-situ TEM
-      value: MEMS chip-based experiments: Heating, Biasing, Gas-Heating, Liquid-Biasing and Indentation
+      value: MEMS chip-based experiments:Heating, Biasing, Gas-Heating, Liquid-Biasing and Indentation
     - name: Data processing
       value: Python based image processing (segmentation, edge detection), 4D STEM data analysis
     - name: FIB/SEM
